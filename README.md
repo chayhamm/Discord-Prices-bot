@@ -42,3 +42,4 @@ A discord bot designed to display the prices of the users products.
 
 ---
 "# Discord-Prices-bot" 
+"# Discord-Prices-bot" 
